@@ -1,1 +1,1 @@
-worker : Python newbot.py 
+worker : Python main.py 
